@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm keen on 
+I'm keen on Java, Python, Solidity
 
 <!--
 **kemaldursun/kemaldursun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
