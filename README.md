@@ -1,4 +1,4 @@
-### Hi wassup
+### Hi there
 
 I'm keen on Java, Python, AI, JS, Solidity
 
